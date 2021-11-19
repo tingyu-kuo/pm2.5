@@ -8,7 +8,7 @@
   3.以台灣1x1網格地圖視覺化<br>
   4.利用長短期記憶網路(LSTM)對測站下個時間點的空氣品質數值進行預測<br>
   5.編寫網頁並建置於虛擬機伺服器(預測地圖之虛擬機故障無法顯示)<br>
-  https://pm25.thu.edu.tw/
+  6.網址:https://pm25.thu.edu.tw/
 
 ### 系統架構圖:
 <img src="https://github.com/tingyu-kuo/pm2.5/blob/main/images/arch.PNG" width="500"/><br/>
